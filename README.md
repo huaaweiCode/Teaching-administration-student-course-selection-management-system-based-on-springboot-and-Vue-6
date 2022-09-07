@@ -1,10 +1,6 @@
 # 基于springboot和vue的教务学生选课管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ：**选课6** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -82,11 +78,5 @@
 
 ![学生-信息修改](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207161523277.jpg)
 
-## 5、获取方式
 
-扫描下方，回复关键词  ：**选课6**，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
